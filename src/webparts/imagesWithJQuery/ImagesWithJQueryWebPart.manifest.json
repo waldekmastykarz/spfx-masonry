@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "77bbe1e6-8ed6-4343-81db-5d40bb95579c",
+  "alias": "ImagesWithJQueryWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "77bbe1e6-8ed6-4343-81db-5d40bb95579c",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Images with jQuery" },
+    "description": { "default": "Shows images using jQuery" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Images with jQuery"
+    }
+  }]
+}
